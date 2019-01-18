@@ -233,7 +233,8 @@
       "node_modules/core-js/library/fn/is-iterable.js": 229,
       "node_modules/core-js/library/modules/core.is-iterable.js": 230,
       "node_modules/@babel/runtime-corejs2/helpers/nonIterableSpread.js": 231,
-      "node_modules/next/dist/build/webpack/loaders/next-babel-loader.js??ref--4!pages/index.js c4ddcaa3a528a3d7a3e5702cf66d0d05": 232
+      "node_modules/next/dist/build/webpack/loaders/next-babel-loader.js??ref--4!pages/index.js c4ddcaa3a528a3d7a3e5702cf66d0d05": 232,
+      "node_modules/next/dist/build/webpack/loaders/next-babel-loader.js??ref--4!pages/index.js 32078f519c37bd9b4f72a71fdef7033b": 232
     },
     "usedIds": {
       "0": 0,
@@ -483,17 +484,21 @@
       "static/~GFsk3VT0jy0_A3DtbR5R/pages/about.js": 7,
       "static/~GFsk3VT0jy0_A3DtbR5R/pages/index.js": 8,
       "static/~GFsk3VT0jy0_A3DtbR5R/pages/_app.js": 9,
-      "static/~GFsk3VT0jy0_A3DtbR5R/pages/_error.js": 10
+      "static/~GFsk3VT0jy0_A3DtbR5R/pages/_error.js": 10,
+      "static/tp_8YRVQvvtya0IXBaifn/pages/about.js": 3,
+      "static/tp_8YRVQvvtya0IXBaifn/pages/index.js": 4,
+      "static/tp_8YRVQvvtya0IXBaifn/pages/_app.js": 5,
+      "static/tp_8YRVQvvtya0IXBaifn/pages/_error.js": 6
     },
     "bySource": {},
     "usedIds": [
       0,
       1,
-      10,
       2,
-      7,
-      8,
-      9
+      3,
+      4,
+      5,
+      6
     ]
   }
 }
