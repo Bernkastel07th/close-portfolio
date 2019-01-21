@@ -1,12 +1,12 @@
 # hello-next
 next.js demo
 
-# Why ZEIT NOW?
+## Why ZEIT NOW?
 - be able to pretty simply deploying
 - a simple command of CLI
 - https://zeit.co/now
 
-# Why Next.js
+## Why Next.js
 - Next.js is a static site generator
 - Next.js is able to simply coding
 - Next.js is made in React.js
