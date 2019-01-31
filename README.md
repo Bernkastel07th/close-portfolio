@@ -1,5 +1,5 @@
-# hello-next
-My Profile
+# What's hello?
+It's a Next.js document I made to publish my profile
 
 ## Why ZEIT NOW?
 - be able to pretty simply deploying
