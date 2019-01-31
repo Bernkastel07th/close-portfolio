@@ -1,5 +1,5 @@
 # hello-next
-next.js demo
+My Profile
 
 ## Why ZEIT NOW?
 - be able to pretty simply deploying
