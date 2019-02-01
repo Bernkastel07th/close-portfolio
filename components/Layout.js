@@ -1,15 +1,21 @@
-import Header from './Header'
+import SideMenu from './SideMenu'
 
 const layoutStyle = {
-  margin: 20,
-  padding: 20,
-  border: '1px solid #DDD',
+  display: 'flex',
+  width: '100%',
+  height: '100%',
+  margin: '28px',
+}
+
+const containerStyle = {
+  padding: '0 28px',
+  width: '70%',
 }
 
 const Layout = props => (
   <div style={layoutStyle}>
-    <Header />
-    {props.children}
+    <SideMenu />
+    <div style={containerStyle}>{props.children}</div>
   </div>
 )
 

@@ -15,5 +15,10 @@
     "dev": "node server.js",
     "build": "next build",
     "start": "next start -p 8000"
+  },
+  "devDependencies": {
+    "@mdx-js/mdx": "^0.16.8",
+    "@zeit/next-mdx": "^1.2.0",
+    "styled-components": "^4.1.3"
   }
 }
