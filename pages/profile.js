@@ -4,8 +4,6 @@ import Layout from '../components/Layout'
 
 const markdown = `
 # 職務履歴書
-職務履歴の概要です。会社名を伏せていますが、特に秘匿情報ではありません。
-
 ## 個人データ
 
 - 氏名: 佐藤 公基（Koki Sato）
@@ -13,9 +11,10 @@ const markdown = `
 - 国籍: 日本
 - 年齢: 27 歳(1991 年生まれ)
 - 最終学歴: 大学卒業
-- 最寄り駅: 北野駅
 - 各種 URL
+  - twitter: https://twitter.com/hi_im_Corki
   - github: https://github.com/Bernkastel07th
+  - codepen: https://codepen.io/Bernkastel07th/
   - 当ポートフォリオサイトのソースコード: https://github.com/Bernkastel07th/portfolio
 
 ## 職務経歴（概要）

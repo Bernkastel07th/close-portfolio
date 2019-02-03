@@ -16,6 +16,9 @@ const Layout = props => (
   <div style={layoutStyle}>
     <SideMenu />
     <div style={containerStyle}>{props.children}</div>
+    <style jsx global>
+      {``}
+    </style>
   </div>
 )
 
