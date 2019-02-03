@@ -19,6 +19,7 @@
   "devDependencies": {
     "@mdx-js/mdx": "^0.16.8",
     "@zeit/next-mdx": "^1.2.0",
+    "c3": "^0.6.12",
     "styled-components": "^4.1.3"
   }
 }
