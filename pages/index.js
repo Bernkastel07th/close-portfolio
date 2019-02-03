@@ -1,10 +1,8 @@
 import React from 'react'
-import Mdx, { meta } from '../posts/post.mdx'
-
-const { layout } = meta
+import Layout from '../components/Layout'
 
 export default () => (
-  <layout>
-    <Mdx />
-  </layout>
+  <Layout>
+    <h1>Welcome</h1>
+  </Layout>
 )
