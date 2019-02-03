@@ -9,7 +9,7 @@ const layoutStyle = {
 
 const containerStyle = {
   padding: '0 28px',
-  width: '70%',
+  width: '75%',
 }
 
 const Layout = props => (
