@@ -1,4 +1,4 @@
-# What's hello?
+# What's this?
 It's a Next.js document I made to publish my profile
 
 ## Why ZEIT NOW?
