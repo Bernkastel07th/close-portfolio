@@ -1,7 +1,6 @@
 import React from 'react'
 import Markdown from 'react-markdown'
 import Layout from '../components/Layout'
-// import Skills from '../components/Skills'
 
 const linksMd = `
 ## Links
@@ -13,7 +12,6 @@ const linksMd = `
 
 export default () => (
   <Layout>
-    {/* <Skills /> */}
     <Markdown source={linksMd} />
   </Layout>
 )
