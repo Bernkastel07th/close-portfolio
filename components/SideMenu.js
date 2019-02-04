@@ -10,7 +10,7 @@ const sideMenuStyle = {
   left: 0,
   position: 'sticky',
   padding: '16px',
-  width: '25%',
+  width: '250px',
   height: '100%',
   border: '1px solid #f0f0f0',
   backgroundColor: '#F3A530',

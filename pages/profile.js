@@ -6,17 +6,25 @@ const markdown = `
 # 職務履歴書
 ## 個人データ
 
-- 氏名: 佐藤 公基（Koki Sato）
+- 氏名: K.S
 - 性別: 男
 - 国籍: 日本
 - 年齢: 27 歳(1991 年生まれ)
 - 最終学歴: 大学卒業
-- 各種 URL
-  - twitter: https://twitter.com/hi_im_Corki
-  - github: https://github.com/Bernkastel07th
-  - codepen: https://codepen.io/Bernkastel07th/
-  - 当ポートフォリオサイトのソースコード: https://github.com/Bernkastel07th/portfolio
+- 最寄り駅: 北野駅
+- 当ポートフォリオサイトのソースコード: https://github.com/Bernkastel07th/portfolio
 
+## 希望事項
+- フロントエンドエンジニア
+- React + Reduxを使ったWebアプリ構築
+- TDD体制(Jest実務経験あり)
+- Gitを使用した環境
+- デザイナーに近い仕事環境
+## 業務外の活動
+- GenerativeDesignの制作・学習
+- Processingを使ったシェーダー制作・学習
+- React-Nativeの学習
+- 友達とArduinoやRaspberryPiを使ったガジェット制作
 ## 職務経歴（概要）
 フロントエンドエンジニア(FE)
 - 某保険会社のポータルサイト構築（e-larningシステム）
@@ -45,13 +53,12 @@ const markdown = `
   - 開発体制: アジャイル
   - 開発管理: Git(GitHub)
 ## プログラミングスキル
-  - HTML
-    - HTML4.1、HTML5を使って実装経験あり
+  - HTML5
     - FileAPIなどのHTMLAPIを使ってWebアプリの実装経験あり
     - PugでHTMLテンプレート実装の経験あり
     - Canvasを使ったアニメーション実装の経験あり
   - CSS3
-    - BEMやFlocssのようなCSS設計を元に実装経験あり
+    - BEMやFLOCSSのようなCSS設計を元に実装経験あり
     - HTMLCanvasを使ったアニメーション実装の経験あり
     - Sass,Less,Stylusを使った実装の経験あり
     - BurbonやBootstarpを使った実装の経験あり
@@ -71,7 +78,7 @@ const markdown = `
     - Node.jsとexpressでServer構築経験あり
     - FireBase + Netlifyを使ったWebアプリの開発経験あり
 ## 職務経歴（前職）
-### 株式会社リクルートライフスタイル（2016年11月 ~ 2019年2月）
+### 株式会社RLS（2016年11月 ~ 2019年2月）
 - POSレジのWebアプリ
 - ポジション: フロントエンドエンジニア（FE）
 - 開発体制: アジャイル + TDD
@@ -89,7 +96,7 @@ const markdown = `
   - 複数プロダクトで使う共通UIのライブラリの開発やバグ修正などのメンテナンスを対応
   - 共通UIのデザインガイドラインの作成（Next.js）
 ## 職務経歴（前職以前）
-### 某面白法人（2016年4月 ~ 2016年10月）
+### 株式会社K（2016年4月 ~ 2016年10月）
 - 某ソーシャルゲーム向けSNSプラットフォーム（Webアプリ）開発
 - Angular.js(1系)
 - ポジション: フロントエンドエンジニア（FE）
