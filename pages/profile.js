@@ -6,12 +6,11 @@ const markdown = `
 # 職務履歴書
 ## 個人データ
 
-- 氏名: K.S
+- 氏名: 佐藤　公基(Koki Sato)
 - 性別: 男
 - 国籍: 日本
 - 年齢: 27 歳(1991 年生まれ)
 - 最終学歴: 大学卒業
-- 最寄り駅: 北野駅
 - 当ポートフォリオサイトのソースコード: https://github.com/Bernkastel07th/portfolio
 
 ## 希望事項
