@@ -70,7 +70,7 @@ const markdown = `
     - Backborn.js + jQueryでの開発経験あり（6ヶ月）
     - Vue.jsでの開発経験あり（3ヶ月）
     - Angular.js(1系)での開発経験あり（6ヶ月）
-    - FlowやTypeScriptを使った型付け
+    - **TypeScript**を使った型付け
   - その他
     - **JestとReact-testing-libraryを用いたTDD経験あり**
     - JenkinsやDroneのようなCIのConfigurationを書いた経験あり

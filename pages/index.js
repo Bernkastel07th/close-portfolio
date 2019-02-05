@@ -1,7 +1,6 @@
 import React from 'react'
 import Markdown from 'react-markdown'
 import Layout from '../components/Layout'
-import Head from 'next/head'
 
 const linksMd = `
 ## Links
@@ -12,13 +11,7 @@ const linksMd = `
 `
 
 export default () => (
-  <div>
-    <Head>
-      <title>portfolio</title>
-      <meta name="viewport" content="initial-scale=1.0, width=device-width" />
-    </Head>
-    <Layout>
-      <Markdown source={linksMd} />
-    </Layout>
-  </div>
+  <Layout>
+    <Markdown source={linksMd} />
+  </Layout>
 )
