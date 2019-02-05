@@ -15,7 +15,7 @@ const markdown = `
 
 ## 希望事項
 - フロントエンドエンジニア
-- React + Reduxを使ったWebアプリ構築
+- React + Reduxを使ったWebアプリ開発
 - TDD体制(Jest実務経験あり)
 - Gitを使用した環境
 - デザイナーに近い仕事環境
@@ -70,7 +70,7 @@ const markdown = `
     - Backborn.js + jQueryでの開発経験あり（6ヶ月）
     - Vue.jsでの開発経験あり（3ヶ月）
     - Angular.js(1系)での開発経験あり（6ヶ月）
-    - CoffeeScriptのようなシンタックスシュガーを用いた開発経験あり
+    - FlowやTypeScriptを使った型付け
   - その他
     - **JestとReact-testing-libraryを用いたTDD経験あり**
     - JenkinsやDroneのようなCIのConfigurationを書いた経験あり
