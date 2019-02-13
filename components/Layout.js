@@ -3,13 +3,11 @@ import Head from 'next/head'
 
 const layoutStyle = {
   display: 'flex',
-  width: '100%',
-  height: '100%',
-  margin: '28px',
+  padding: '16px 24px',
 }
 
 const containerStyle = {
-  padding: '0 28px',
+  padding: '0 24px',
 }
 
 const Layout = props => (
@@ -20,6 +18,11 @@ const Layout = props => (
     </Head>
     <SideMenu />
     <div style={containerStyle}>{props.children}</div>
+    <style global jsx>{`
+      body {
+        margin: 0;
+      }
+    `}</style>
   </div>
 )
 
