@@ -11,19 +11,21 @@ const markdown = `
 - 国籍: 日本
 - 年齢: 27 歳(1991 年生まれ)
 - 最終学歴: 大学卒業
-- 当ポートフォリオサイトのソースコード: https://github.com/Bernkastel07th/portfolio
 
 ## 希望事項
 - フロントエンドエンジニア
 - React + Reduxを使ったWebアプリ開発
+- React-native
 - TDD体制(Jest実務経験あり)
 - Gitを使用した環境
 - デザイナーに近い仕事環境
+
 ## 業務外の活動
 - GenerativeDesignの制作・学習
 - Processingを使ったシェーダー制作・学習
 - React-Nativeの学習
 - 友達とArduinoやRaspberryPiを使ったガジェット制作
+
 ## 職務経歴（概要）
 フロントエンドエンジニア(FE)
 - 某保険会社のポータルサイト構築（e-larningシステム）
@@ -51,6 +53,7 @@ const markdown = `
   - ポジション: FEチーム（４人）に所属し、各画面のリニューアルを担当
   - 開発体制: アジャイル
   - 開発管理: Git(GitHub)
+
 ## プログラミングスキル
   - HTML5
     - FileAPIなどのHTMLAPIを使ってWebアプリの実装経験あり
@@ -76,8 +79,9 @@ const markdown = `
     - JenkinsやDroneのようなCIのConfigurationを書いた経験あり
     - Node.jsとexpressでServer構築経験あり
     - FireBase + Netlifyを使ったWebアプリの開発経験あり
+
 ## 職務経歴（前職）
-### 株式会社RLS（2016年11月 ~ 2019年2月）
+### 株式会社LS（2016年11月 ~ 2019年2月）
 - POSレジのWebアプリ
 - ポジション: フロントエンドエンジニア（FE）
 - 開発体制: アジャイル + TDD
