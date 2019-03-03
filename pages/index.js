@@ -7,7 +7,6 @@ const linksMd = `
   - twitter: https://twitter.com/hi_im_Corki
   - github: https://github.com/Bernkastel07th
   - codepen: https://codepen.io/Bernkastel07th/
-  - 当ポートフォリオサイトのソースコード: https://github.com/Bernkastel07th/portfolio
 `
 
 export default () => (
