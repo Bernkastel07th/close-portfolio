@@ -15,7 +15,6 @@ const markdown = `
 ## 希望事項
 - フロントエンドエンジニア
 - React + Reduxを使ったWebアプリ開発
-- React-native
 - TDD体制(Jest実務経験あり)
 - Gitを使用した環境
 - デザイナーに近い仕事環境
