@@ -1,26 +1,22 @@
-import SideMenu from './SideMenu'
 import Head from 'next/head'
 
-const layoutStyle = {
-  display: 'flex',
-  padding: '16px 24px',
-}
-
 const containerStyle = {
-  padding: '0 24px',
+  padding: '16px 32px 56px',
+  'overflow-y': 'scroll',
 }
 
 const Layout = props => (
-  <div style={layoutStyle}>
+  <div>
     <Head>
       <title>portfolio</title>
       <meta name="viewport" content="initial-scale=1.0, width=device-width" />
     </Head>
-    <SideMenu />
     <div style={containerStyle}>{props.children}</div>
     <style global jsx>{`
       body {
         margin: 0;
+        padding: 0;
+        box-sizing: border-box;
       }
     `}</style>
   </div>
