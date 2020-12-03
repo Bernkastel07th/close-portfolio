@@ -1,3 +1,5 @@
+※ Moving to another repo.
+
 # What's this?
 It's a Next.js document I made to publish my profile
 
